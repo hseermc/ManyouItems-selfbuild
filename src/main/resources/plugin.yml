@@ -1,0 +1,4 @@
+name: ManyouItems
+version: '${project.version}'
+main: cn.superiormc.manyoulib.ManyouItems
+api-version: '1.13'
