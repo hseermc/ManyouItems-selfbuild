@@ -217,14 +217,8 @@
         <dependency>
             <groupId>com.github.Emibergo02</groupId>
             <artifactId>RedisEconomy</artifactId>
-            <version>main-370fa8da6d-1</version>
+            <version>4.3.19</version>
             <scope>provided</scope>
-            <exclusions>
-                <exclusion>
-                    <groupId>*</groupId>
-                    <artifactId>*</artifactId>
-                </exclusion>
-            </exclusions>
         </dependency>
         <dependency>
             <groupId>me.soknight</groupId>
